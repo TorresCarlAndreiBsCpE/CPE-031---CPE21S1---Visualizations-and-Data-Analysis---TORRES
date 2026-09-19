@@ -29,11 +29,11 @@ This repository was created as a requirement for the course ***CPE 031 - Visuali
 
 
 
-*├── [Assignments](Assignments/) — Contains all assignments
-*├── [Exams](Exams/) — Contains Prelim, Midterm, and Final exams
-*├── [Laboratory Activities](LaboratoryActivities/) — Contains all laboratory activities
-*├── [Projects](Projects/) — Contains major course projects
-*├── [Quizzes](Quizzes/) — Contains all of the quizzes
-*├── [Seatworks](Seatworks/) — Contains all seatworks
-*└── [README.md](https://github.com/TorresCarlAndreiBsCpE/CPE-031---CPE21S1---Visualizations-and-Data-Analysis---TORRES/blob/main/README.md)
+*[Assignments](Assignments/) — Contains all assignments
+*[Exams](Exams/) — Contains Prelim, Midterm, and Final exams
+*[Laboratory Activities](LaboratoryActivities/) — Contains all laboratory activities
+*[Projects](Projects/) — Contains major course projects
+*[Quizzes](Quizzes/) — Contains all of the quizzes
+*[Seatworks](Seatworks/) — Contains all seatworks
+*[README.md](https://github.com/TorresCarlAndreiBsCpE/CPE-031---CPE21S1---Visualizations-and-Data-Analysis---TORRES/blob/main/README.md)
 
