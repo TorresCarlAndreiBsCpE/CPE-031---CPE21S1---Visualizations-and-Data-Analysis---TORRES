@@ -28,10 +28,10 @@ This repository was created as a requirement for the course ***CPE 031 - Visuali
 ## Contents
 
 ```text
-├── Assignments/           - Contains all assignments
-├── Exams/                 - Contains Prelim, Midterm, and Final Exam
-├── Laboratory Activites/  - Contains all of the completed lab exercises like Hands-On Activities
-├── Projects/              - Contains major course projects
-├── Quizzes/               - Contains all of the quizzes
-├── Seatworks/             - Contains all seatworks
+├── [Assignments](CPE-031---CPE21S1---Visualizations-and-Data-Analysis---TORRES/Assignments/)          - Contains all assignments
+├── [Exams](CPE-031---CPE21S1---Visualizations-and-Data-Analysis---TORRES/Exams/)               - Contains Prelim, Midterm, and Final Exam
+├── [Laboratory Activities](CPE-031---CPE21S1---Visualizations-and-Data-Analysis---TORRES/Laboratory Activites/)  - Contains all of the completed lab exercises like Hands-On Activities
+├── [Projects](CPE-031---CPE21S1---Visualizations-and-Data-Analysis---TORRESv/Projects/)              - Contains major course projects
+├── [Quizzes](CPE-031---CPE21S1---Visualizations-and-Data-Analysis---TORRES/Quizzes/)               - Contains all of the quizzes
+├── [Seatworks](CPE-031---CPE21S1---Visualizations-and-Data-Analysis---TORRES/Seatworks/)            - Contains all seatworks
 └── README.md              - Course Overview, Student Profile, and Repository Guide.
