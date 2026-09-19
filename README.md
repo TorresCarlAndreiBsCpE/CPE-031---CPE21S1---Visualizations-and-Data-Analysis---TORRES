@@ -29,7 +29,9 @@ This repository was created as a requirement for the course ***CPE 031 - Visuali
 
 ```text
 ├── Assignments/           - Contains all assignments
+├── Exams/                 - Contains Prelim, Midterm, and Final Exam
 ├── Laboratory Activites/  - Contains all of the completed lab exercises like Hands-On Activities
 ├── Projects/              - Contains major course projects
+├── Quizzes/               - Contains all of the quizzes
 ├── Seatworks/             - Contains all seatworks
 └── README.md              - Course Overview, Student Profile, and Repository Guide.
